@@ -23,11 +23,12 @@ Currently, I am starting and continuing my studies in these technologies
 ![MySQL](./docs/badges/mysql.svg)
 ![React](./docs/badges/react.svg) 
 ![ReactNative](./docs/badges/reactnativ.svg)
+![C](./docs/badges/clang.svg)  
 <br>
 ![Git](./docs/badges/git.svg) 
 ![Github](./docs/badges/github.svg)
 ![Arduino](./docs/badges/arduino.svg)
-![C](./docs/badges/clang.svg)  
+
 ![C++](./docs/badges/cpp.svg) 
 ![HTML](./docs/badges/html5.svg) 
 ![CSS](./docs/badges/css3.svg)
