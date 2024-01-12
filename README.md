@@ -7,7 +7,7 @@
 <img src="./docs/banner.gif" width=300 alt="Rei Chikita from evangelion anime">
 </img>
   
-*My name is Gustavo, AKA gu or gusta, you can call me Gu. I'm approximately 18 years old and live in Brazil.*
+*My name is Gustavo, AKA gu or gusta, you can call me Gu. I'm approximately 19 years old and live in Brazil.*
 
 I started programming from 2021, in school (technical high school in Industrial Automation) and now I am studying on my own and in courses to hone my programming skills! I intend to do college in graduation in this area.<br>
 and become a software engineer fullstack. I'm always working in something, whether it's to contribute to others, for studies, or for my own interests.
